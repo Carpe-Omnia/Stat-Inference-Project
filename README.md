@@ -1,6 +1,6 @@
 # Stat-Inference-Project
 Statistical Inference Course Project
-Part of Module 4 in the Statistical Inference Course, part 5 of the Johns Hopkins Data Science Specialization found on Coursera.
+Part of Module 4 in the Statistical Inference Course, part 6 of the Johns Hopkins Data Science Specialization found on Coursera.
 This was created by Tomaz Rodrigues
 
 License:
