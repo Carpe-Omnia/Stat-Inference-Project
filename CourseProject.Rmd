@@ -58,7 +58,7 @@ print(paste("my standard error is ", myVectorDev, sep=""))
 ```
 
 
-## Is the data normally distributed at as we would expect
+## Is the data normally distributed at as we would expect?
 Using the central limit theorem we would expect the data to be normally distributed about mean 5 with standard error 0.79. Let's plot the data alongside a normal density curve with those parameters to see how it stacks up.
 
 
